@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CityPicker.iml" filepath="$PROJECT_DIR$/CityPicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CityPickerFixed.iml" filepath="$PROJECT_DIR$/CityPickerFixed.iml" />
+      <module fileurl="file://C:\project_efamily\CityPicker-1\CityPicker.iml" filepath="C:\project_efamily\CityPicker-1\CityPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CityPicker-1.iml" filepath="$PROJECT_DIR$/CityPicker-1.iml" />
+      <module fileurl="file://C:\project_efamily\CityPicker-1\CityPickerFixed.iml" filepath="C:\project_efamily\CityPicker-1\CityPickerFixed.iml" />
       <module fileurl="file://$PROJECT_DIR$/citypicker/citypicker.iml" filepath="$PROJECT_DIR$/citypicker/citypicker.iml" />
+      <module fileurl="file://C:\project_efamily\CityPicker-1\citypicker\citypicker.iml" filepath="C:\project_efamily\CityPicker-1\citypicker\citypicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://C:\project_efamily\CityPicker-1\sample\sample.iml" filepath="C:\project_efamily\CityPicker-1\sample\sample.iml" />
     </modules>
   </component>
 </project>
